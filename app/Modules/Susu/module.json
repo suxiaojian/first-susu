@@ -1,0 +1,16 @@
+{
+    "name": "Susu",
+    "alias": "susu",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "App\\Modules\\Susu\\Providers\\SusuServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
